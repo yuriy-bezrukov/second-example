@@ -4,6 +4,3 @@ function getLoginSelector() {
 function getPasswordSelector() {
     return '[data-testid="password-input"]';
 }
-function getSubmitSelector() {
-    return 'data-testid="login-to-mail"';
-}
